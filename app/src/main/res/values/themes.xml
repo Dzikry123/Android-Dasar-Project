@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BangkitRecycleView" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primari Color -->
+        <item name="colorPrimary">@color/colorBlue</item>
+    </style>
+
+    <style name="Theme.BangkitRecycleView" parent="Base.Theme.BangkitRecycleView" />
+
+    <style name="CornerRounded" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+        <item name="color">@color/white</item>
+    </style>
+</resources>

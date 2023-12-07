@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Best Dishes in the World</string>
+    <string name="example">Example Text</string>
+    <string name="title">10 Best Dishes in the World</string>
+    <string name="about">About Me</string>
+    <string name="desc">Description</string>
+    <string name="name">Name</string>
+    <string name="myName">Dzikry Habibie Muchtar</string>
+    <string name="email">Email</string>
+    <string name="myEmail">dzikryhabibie85@gmail.com</string>
+    <string name="share">Share</string>
+
+    <string-array name="string_array_name">
+        <item>text_string_1</item>
+        <item>text_string_2</item>
+        <item>text_string_3</item>
+        <!-- Anda dapat terus menambahkan item sesuai kebutuhan -->
+    </string-array>
+</resources>
